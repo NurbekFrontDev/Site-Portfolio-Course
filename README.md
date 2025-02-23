@@ -38,5 +38,5 @@ git clone git@github.com:NurbekFrontDev/Site-Portfolio-Course.git
 ![Image](https://github.com/user-attachments/assets/1234ed9c-d91a-408f-921a-a709b6c06ce9)
 ## 📩 Контакты
 #### GitHub: [NurbekFrontDev](https://github.com/NurbekFrontDev)
-#### Telegram: [nurbekkDD](https://t.me/nurbekkDD)
-#### Email: [p896566@gmail.com](mailto:p896566@gmail.com)
+#### Telegram: [nurbekfrontdev](https://t.me/nurbekfrontdev)
+#### Email: [Email](mailto:dlaprogrammirovanieidlaameriki@gmail.com)
